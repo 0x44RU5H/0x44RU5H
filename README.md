@@ -1,4 +1,5 @@
 # Hi there, I am Aarush Gupta 👋
+I am a young pythonista, living the life of ever-busy life of a student. I love writing, code, Einstein, and all things computer.
 
 ### I can program in a couple of languages ✨
 - Python
