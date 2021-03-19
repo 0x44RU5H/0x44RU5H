@@ -4,8 +4,6 @@
 <p>I am a passionate, completely self-taught programmer, as well as a student.</p>
 <p>I wish to one day make a tool that would change the way people think about connecting and learning; for now, I'm going to be finishing assignments given by the American Schooling System.</p>
 
-<a href = "#"> <img src = "https://github-readme-stats.vercel.app/api?username=the-real-aarushgupta&show_icons=true&theme=gotham" alt = "github stats" align = "right"></a>
-
 ### I can program in a couple of languages ✨
 - Python
 - HTML, CSS, Javascript
