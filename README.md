@@ -18,7 +18,7 @@
 - Command Line Apps
 - Desktop App
 
-### Contact 📬
+### I have multiple contact methods 📬
 - Website: [aarushgupta.tk](https://aarushgupta.tk)
 - Email: [hello@aarushgupta.tk](mailto:hello@aarushgupta.tk)
 - Discord: [aarushgupta#0001](https://discord.com/users/795838680282693704)
