@@ -4,7 +4,7 @@
 <p>I am a passionate, completely self-taught programmer, as well as a student.</p>
 <p>I wish to one day make a tool that would change the way people think about connecting and learning; for now, I'm going to be finishing assignments given by the American Schooling System.</p>
 
-### `git commit` is my most frequently used command 🏆
+### `git commit` is one of my most frequently used command 🏆
 ![](https://github-readme-stats.vercel.app/api?username=the-real-aarushgupta&theme=onedark&count_private=true&show_icons=true)
 
 ### I can program in a couple of languages ✨
