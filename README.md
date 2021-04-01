@@ -3,7 +3,7 @@
 <p>I wish to one day make a tool that would change the way people think about connecting and learning; for now, I'm going to be finishing assignments given by the American Schooling System.</p>
 
 ### `git commit` is one of my most frequently used command 🏆
-![](https://github-readme-stats.vercel.app/api?username=the-real-aarushgupta&theme=onedark&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=aargup&theme=onedark&count_private=true&show_icons=true)
 
 ### I can program in a couple of languages ✨
 - Python
