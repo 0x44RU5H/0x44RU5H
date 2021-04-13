@@ -22,4 +22,4 @@
 ### I have multiple contact methods 📬
 - Website: [theaarushgupta.com](https://theaarushgupta.com)
 - Email: [aarush@theaarushgupta.com](mailto:aarush@theaarushgupta.com)
-- Discord: [0x44RU5H#0001](https://discord.com/users/795838680282693704)
+- Discord: [0x44RU5H#2101](https://discord.com/users/795838680282693704)
