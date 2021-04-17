@@ -4,6 +4,7 @@
 
 ### `git commit` is one of my most frequently used command (`git push` is a different story) 🏆
 ![](https://github-readme-stats.vercel.app/api?username=0x44RU5H&theme=onedark&count_private=true&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=0x44RU5H&)
 
 ### I can program in a couple of languages ✨
 - Python
