@@ -15,7 +15,11 @@ class AarushGupta:
         self.knows = ["Python", "HTML, CSS, Javascript", "NodeJS", "SQL", "Bash"]
         self.workingOn = {
             "Website" : self.website,
-            "AshMail" : ("https://ashmail.theaarushgupta.com", "https://github.com/ashmail", "https://github.com/ashmail/ashmail")
+            "AshMail" : (
+                "https://ashmail.theaarushgupta.com",
+                "https://github.com/ashmail",
+                "https://github.com/ashmail/ashmail"
+            )
         }
 
     def run(self, shelter, food, water, computer, internet, novels):
