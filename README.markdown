@@ -1,4 +1,5 @@
 ```python
+#!/usr/bin/python3
 
 from human import Human
 from human.utilities import shelter, food, water, computer, internet, novels
@@ -26,12 +27,11 @@ if __name__ == "__main__":
     aarushgupta = AarushGupta()
     happy = aarush.run(shelter, food, water, computer, internet, novels)
     print(happy)
-
 ```
 
 ```
-
+$ vim aarushgupta.py
+$ chmod +x aarushgupta.py
 $ python3 ./aarushgupta.py
 True
-
 ```
