@@ -12,7 +12,7 @@ class AarushGupta:
         self.discord = "0x44RU5H#2101"
         self.pronouns = "He/Him"
         self.rolesInSociety = ["Student", "Programmer", "Writer"]
-        self.knows = ["Python", "HTML, CSS, Javascript", "NodeJS", "SQL", "Bash"]
+        self.knows = ["Python", "HTML", "CSS", "Javascript", "NodeJS", "SQL", "Bash"]
         self.workingOn = {
             "Website" : self.website,
             "AshMail" : (
