@@ -1,7 +1,6 @@
 <div align = "center">
     <samp>
-        <p>Aarush Gupta (0x44RU5H) likes to build things</p>
-        his corners of the web:
+        <p>I like to build things</p>
         <a href = "https://theaarushgupta.com">homepage</a>,
         <a href = "https://theaarushgupta.com/projects">projects</a>,
         <a href = "https://github.com/0x44RU5H">github</a>, and
