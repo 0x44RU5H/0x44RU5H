@@ -2,6 +2,14 @@
 
 <div align = "center">
     <samp>
+        <h1><i>“Talk is cheap. Show me the code.”</i></h1>
+    </samp>
+</div>
+
+<br>
+
+<div align = "center">
+    <samp>
         <p><b>🛠️ I like to build things. 🛠️</b></p>
         <a href = "https://theaarushgupta.com">homepage</a> .
         <a href = "https://pypi.org/user/0x44RU5H/">pypi</a> .
