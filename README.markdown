@@ -1,5 +1,3 @@
-<br>
-
 <div align = "center">
     <samp>
         <h1><i>“Talk is cheap. Show me the code.”</i></h1>
@@ -23,5 +21,14 @@
     <samp>
         <p><b>📈 Github Statistics 📈</b></p>
         <img src = "https://github-readme-stats.vercel.app/api?username=0x44Ru5H&count_private=true&theme=onedark&hide_border=true">
+    </samp>
+</div>
+
+<hr>
+
+<div align = "center">
+    <samp>
+        <p><b>📦 <a href = "https://github.com/0x44RU5H/codebuddy">CodeBuddy</a> Downloads 📦</b></p>
+        <img src = "https://img.shields.io/pypi/dm/codebuddy.svg?style=for-the-badge&logo=python&logoColor=white">
     </samp>
 </div>
