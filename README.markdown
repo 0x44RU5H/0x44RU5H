@@ -1,10 +1,10 @@
 <div align = "center">
     <samp>
-        <h1><i>“Talk is cheap. Show me the code.”</i></h1>
+        <b><i>☎️ “Talk is cheap. Show me the code.” 👨‍💻</i></b>
     </samp>
 </div>
 
-<br>
+<hr>
 
 <div align = "center">
     <samp>
