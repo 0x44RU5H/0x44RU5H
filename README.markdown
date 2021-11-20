@@ -20,7 +20,7 @@
 <div align = "center">
     <samp>
         <p><b>📈 Github Statistics 📈</b></p>
-        <img src = "https://github-readme-stats.vercel.app/api?username=0x44Ru5H&count_private=true&theme=onedark&hide_border=true">
+        <img src = "https://github-readme-stats.vercel.app/api?username=theaarushgupta&count_private=true&theme=onedark&hide_border=true">
     </samp>
 </div>
 
