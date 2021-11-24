@@ -1,6 +1,6 @@
 <div align = "center">
     <samp>
-        <b><i>☎️ “Talk is cheap. Show me the code.” 👨‍💻</i></b>
+        <b>Samsung Solve for Tomorrow 2020 Semi-finalist; <a href = "https://hornersteamclub.github.io">Horner STEAM Club</a> President; <a href = "https://theaarushgupta.com">theaarushgupta.com</a></b>
     </samp>
 </div>
 
@@ -9,9 +9,12 @@
 <div align = "center">
     <samp>
         <p><b>🛠️ I like to build things. 🛠️</b></p>
-        <a href = "https://theaarushgupta.com">homepage</a> .
+        <a href = "https://theaarushgupta.com">website</a> .
         <a href = "https://pypi.org/user/0x44RU5H/">pypi</a> .
-        <a href = "https://discord.com/users/795838680282693704">discord</a>
+        <a href = "https://www.linkedin.com/in/theaarushgupta">linkedin</a> .
+        <a href = "https://twitter.com/theaarushgupta">twitter</a> .
+        <a href = "https://discord.com/users/795838680282693704">discord</a> .
+        <a href = "mailto:hello@theaarushgupta.com">email</a>
     </samp>
 </div>
 
