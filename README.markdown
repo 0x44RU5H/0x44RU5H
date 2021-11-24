@@ -20,7 +20,8 @@
 <div align = "center">
     <samp>
         <p><b>📈 Github Statistics 📈</b></p>
-        <img src = "https://github-readme-stats.vercel.app/api?username=theaarushgupta&count_private=true&theme=onedark&hide_border=true">
+        <img src = "https://github-readme-stats.vercel.app/api?username=theaarushgupta&count_private=true&theme=onedark&hide_border=true&line_height=33">
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theaarushgupta&langs_count=4&theme=onedark&hide_border=true">
     </samp>
 </div>
 
