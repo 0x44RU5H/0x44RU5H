@@ -1,6 +1,6 @@
 <div align = "center">
     <samp>
-        <b>Samsung Solve for Tomorrow 2020 Semi-finalist; <a href = "https://hornersteamclub.github.io">Horner STEAM Club</a> President; <a href = "https://theaarushgupta.com">theaarushgupta.com</a></b>
+        <b>Samsung Solve for Tomorrow 2020 Semi-finalist • <a href = "https://hornersteamclub.github.io">Horner STEAM Club</a> President • <a href = "https://theaarushgupta.com">theaarushgupta.com</a></b>
     </samp>
 </div>
 
@@ -8,7 +8,6 @@
 
 <div align = "center">
     <samp>
-        <p><b>🛠️ I like to build things. (here and <a href = "https://hornersteamclub.github.io">@hornersteamclub</a> 🛠️</b></p>
         <a href = "https://theaarushgupta.com">website</a> .
         <a href = "https://pypi.org/user/0x44RU5H/">pypi</a> .
         <a href = "https://www.linkedin.com/in/theaarushgupta">linkedin</a> .
@@ -22,7 +21,6 @@
 
 <div align = "center">
     <samp>
-        <p><b>📈 Github Statistics 📈</b></p>
         <img src = "https://github-readme-stats.vercel.app/api?username=theaarushgupta&count_private=true&theme=onedark&hide_border=true&line_height=33">
     </samp>
 </div>
