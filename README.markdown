@@ -9,6 +9,7 @@
 <div align = "center">
     <samp>
         <a href = "https://theaarushgupta.com">website</a> .
+        <a href = "https://theaarushgupta.com/blog">blog</a> .
         <a href = "https://pypi.org/user/0x44RU5H/">pypi</a> .
         <a href = "https://www.linkedin.com/in/theaarushgupta">linkedin</a> .
         <a href = "https://twitter.com/theaarushgupta">twitter</a> .
